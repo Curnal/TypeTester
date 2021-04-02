@@ -3,4 +3,4 @@
 Test your typing abilities!
 
 Download:
-[Download Link](adityamathur.tech/TypeTester.html)
+[Download Link](http://www.adityamathur.tech/TypeTester.html)
